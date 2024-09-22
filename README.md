@@ -4,11 +4,11 @@ El proyecto se centra en el análisis de datos de disponibilidad de habitaciones
 ![airbnb](https://github.com/user-attachments/assets/654c240f-d436-4912-a994-9e52e6d62b26)
 
 # Menú
-- [Objetivo](#Objetivo)
-- [Herramientas y Tecnologías](#HerramientasyTecnologías)
-- [Procesamiento y análisis](#Procesamientoyanálisis)
-- [Resultados y Conclusiones](#ResultadosyConclusiones)
-- [Enlaces de interés](#Enlacesdeinterés)
+- [Objetivo](Objetivo)
+- [Herramientas y Tecnologías](HerramientasyTecnologías)
+- [Procesamiento y análisis](Procesamientoyanálisis)
+- [Resultados y Conclusiones](ResultadosyConclusiones)
+- [Enlaces de interés](Enlacesdeinterés)
 ## Objetivo
 Identificar los factores clave que influyen en la ocupación de las habitaciones, y a partir de estos datos, generar recomendaciones para mejorar la rentabilidad de los anfitriones.
 ## Herramientas y Tecnologías:
