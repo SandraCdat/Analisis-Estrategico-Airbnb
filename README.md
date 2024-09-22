@@ -27,11 +27,11 @@ Fórmulas DAX en PowerBI
 Las tablas reviews y rooms se cargaron corectamente.
 La tabla hosts no se pudo subir correctamente porque tenía valores en la columna que deben ser número pero están algunas filas en texto. Se tomó la decisión de renombrar las columnas.
 
-[Ver Consultas Big Query](comandos.md)
+[Ver Consultas Big Query](Consulta.md)
 
 - ### Identificar y manejar valores nulos
   Se utilizó una fórmula en cada tabla para identificar las filas que contienen cualquier valores nulos, valores numéricos y texto.
- [Ver Consultas Big Query](comandos.md)
+ [Ver Consultas Big Query](Consulta.md)
 
 Tabla host_final
 
@@ -48,17 +48,17 @@ Tabla rooms
 
 - ### Identificar valores duplicados  
   Se utilizó una fórmula en las tres tablas para identificar cuántos valores duplicados existe. De esta consulta solo en la tabla host_final se encontraron duplicados.
-  [Ver Consultas Big Query](comandos.md)
+  [Ver Consultas Big Query](Consulta.md)
   
   ![image](https://github.com/user-attachments/assets/84f3d234-4761-4ab9-be9f-10b742bb3832)
 
 - ### Identificar y manejar datos discrepantes en variables categóricas  
   Se utilizó una fórmula en cada tabla para manejar datos discrepantes en variables categóricas. En la tabla host_final y en la tabla rooms se encontraron datos discrepantes. Vale recalcar que los nombres que no estaban en español no se los eliminó.
-  [Ver Consultas Big Query](comandos.md)
+  [Ver Consultas Big Query](Consulta.md)
 
 - ### Identificar y manejar datos discrepantes en variables numéricas  
   Se utilizó una fórmula en cada tabla para manejar datos discrepantes en variables numéricas. En la tabla reviews se cambío a la columna last_reviews a tipo la fecha para llenar con la media todas filas que estaban en nulo.
-  [Ver Consultas Big Query](comandos.md)
+  [Ver Consultas Big Query](Consulta.md)
 
 - ### Crear nuevas variables
   Se crearon nuevas variables para el análisis, como ganancias por habitación y número de reservas por año directamente me POWER BI.
